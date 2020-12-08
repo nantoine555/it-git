@@ -1,2 +1,4 @@
+#Ignorer le dossier work/
 work/
+#Ignore les fichiers DocX
 *.docx
